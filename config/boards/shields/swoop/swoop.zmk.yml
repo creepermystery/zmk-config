@@ -1,0 +1,17 @@
+file_format: "1"
+id: swoop
+name: Swoop
+type: shield
+url: https://github.com/jimmerricks/swoop
+requires:
+  - nice_nano_v2
+exposes:
+  - i2c_oled
+features:
+  - keys
+  - display
+  - encoder
+  - backlight
+siblings:
+  - swoop_left
+  - swoop_right
