@@ -12,9 +12,9 @@
 // |    Z    |    X    |    C    |    V    |    B    |  |    N    |    M    |    ,    |    .    |    /    |  R CTRL |
 //                     |  SPACE  |   DEL   | RETURN  |  |   TAB   |   BSPC  |  LCTRL  |
             bindings = <
-    &kp Q    &kp W    &kp E     &kp R     &kp T           &kp Y     &kp U     &kp I     &kp O     &kp P    &kp BSLH
-    &kp A    &kp S    &kp D     &kp F     &kp G           &kp H     &kp J     &kp K     &kp L     &kp SEMI &kp SQT
-    &kp Z    &kp X    &kp C     &kp V     &kp B           &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH &kp RCTRL
+    &kp Q    &kp W    &kp E     &kp R     &kp T           &kp Y     &kp U     &kp I     &kp O     &kp P   
+    &kp A    &kp S    &kp D     &kp F     &kp G           &kp H     &kp J     &kp K     &kp L     &kp SEMI
+    &kp Z    &kp X    &kp C     &kp V     &kp B           &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH
                       &kp SPACE &kp DEL   &kp RET         &kp TAB   &kp BSPC  &kp LCTRL
             >;
         };
