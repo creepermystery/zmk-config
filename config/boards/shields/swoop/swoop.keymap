@@ -7,10 +7,10 @@
 
         default_layer {
 // ----------------------------------------------------------------------------------------------------------------------------
-// |   ESC   |    Q    |    W    |    E    |    R    |    T    |  |    Y    |    U    |    I    |    O    |    P    |    \    |
-// |   TAB   |    A    |    S    |    D    |    F    |    G    |  |    H    |    J    |    K    |    L    |    ;    |    '    |
-// |  SHIFT  |    Z    |    X    |    C    |    V    |    B    |  |    N    |    M    |    ,    |    .    |    /    |  R CTRL |
-//                               |  SPACE  |   DEL   | RETURN  |  |   TAB   |   BSPC  |  LCTRL  |
+// |    Q    |    W    |    E    |    R    |    T    |  |    Y    |    U    |    I    |    O    |    P    |    \    |
+// |    A    |    S    |    D    |    F    |    G    |  |    H    |    J    |    K    |    L    |    ;    |    '    |
+// |    Z    |    X    |    C    |    V    |    B    |  |    N    |    M    |    ,    |    .    |    /    |  R CTRL |
+//                     |  SPACE  |   DEL   | RETURN  |  |   TAB   |   BSPC  |  LCTRL  |
             bindings = <
     &kp Q    &kp W    &kp E     &kp R     &kp T           &kp Y     &kp U     &kp I     &kp O     &kp P    &kp BSLH
     &kp A    &kp S    &kp D     &kp F     &kp G           &kp H     &kp J     &kp K     &kp L     &kp SEMI &kp SQT
